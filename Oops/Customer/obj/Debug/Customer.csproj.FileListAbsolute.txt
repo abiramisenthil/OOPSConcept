@@ -1,0 +1,6 @@
+U:\competency Framework\Projects\Oops\Customer\bin\Debug\Customer.dll
+U:\competency Framework\Projects\Oops\Customer\bin\Debug\Customer.pdb
+U:\competency Framework\Projects\Oops\Customer\obj\Debug\Customer.csprojAssemblyReference.cache
+U:\competency Framework\Projects\Oops\Customer\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+U:\competency Framework\Projects\Oops\Customer\obj\Debug\Customer.dll
+U:\competency Framework\Projects\Oops\Customer\obj\Debug\Customer.pdb

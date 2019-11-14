@@ -1,0 +1,11 @@
+The end user has to get customer Code, Name and Age.
+On Click of Add button, The details has to be added into the database
+
+Step 1. Create Customer Class with What is needed?
+
+Step 2. How do I go and implement the add function.How  will the customer code, name and age get validated
+
+Step 3. Is it right property and function are expossed to the programmer?
+
+
+
